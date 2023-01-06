@@ -3,13 +3,13 @@
 </head>
 <body>
 <center>
-<form action="C:\Users\Dell\Documents\Integration\paysuccess.html" method="post">
+<form action="https://thirumurugan1.github.io/paysuccess/" method="get">
 			<div class="container">
 				<label for="uname"><b>Mobile Number</b></label>
-				<input type="text" placeholder="Enter Mobile Number" name="uname" required></br></br>
+				<input type="text" placeholder="Enter Mobile Number" name="uname" required><br>
 
 				<label for="psw"><b>Password</b></label>
-				<input type="password" placeholder="Enter Password" name="psw" required></br></br>
+				<input type="password" placeholder="Enter Password" name="psw" required>
 				
 				
 				
@@ -21,17 +21,11 @@
 					<option value="AIRTEL">AIRTEL</option>
 				</select>
 				
-				</br></br>
+				<br>
 				<label for="uname"><b>Amount</b></label>
-				<input type="text" placeholder="Enter Amount" name="uname" required></br></br>
+				<input type="text" placeholder="Enter Amount" name="uname" required><br>
 				
-				<button type="submit">Pay</button></br>
+				<button type="submit">Pay</button>
 				<label>
 				
-			</div>
-
 			
-			
-		</form>
-</body>
-</html>
